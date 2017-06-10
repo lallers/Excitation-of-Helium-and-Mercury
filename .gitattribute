@@ -1,4 +1,4 @@
-Report-Documents/* linguist-vendored
-Report-Presentation/* linguist-vendored
-Data/* linguist-vendored
-Resources/* linguist-vendored
+Report Documents/* linguist-vendored
+Report Presentation/* linguist-vendored
+data/* linguist-vendored
+resources/* linguist-vendored
